@@ -1,0 +1,32 @@
+{
+  "name": "htmliojs",
+  "version": "42.0.0",
+  "description": "The most powerfull html file manager",
+  "author": "Nicolas François <nicolas.francois@outlook.com>",
+  "license": "Beerware",
+  "bin": {
+    "htmliojs": "bin/htmlio.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/202soft/htmlio.js"
+  },
+  "keywords": [
+    "javascript",
+    "io",
+    "file",
+    "html",
+    "js",
+    "lol"
+  ],
+  "bugs": {
+    "url": "https://github.com/202soft/htmlio.js/issues"
+  },
+  "homepage": "https://github.com/202soft/htmlio.js",
+  "engines": {
+    "node": ">= 4.4.1"
+  },
+  "dependencies": {
+    "fileiojs-command": "~42.0.0"
+  }
+}
